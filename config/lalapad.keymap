@@ -303,7 +303,7 @@
 
         SYS_LAYER {
             bindings = <
-&gresc  &trans  &trans  &trans  &trans  &trans  &trans  &trans               &trans         &trans           &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans               &trans         &trans           &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LA(PRINTSCREEN)  &kp LG(LS(S))  &kp PRINTSCREEN  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans               &trans         &trans           &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans               &trans         &trans           &trans  &trans
