@@ -225,10 +225,10 @@
             sensor-bindings = <&scroll_left_right>, <&scroll_left_right>;
 
             bindings = <
-&kp JP_TILDE      &kp MINUS     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9                &kp JP_PLUS      &kp JP_QUOTE   &kp JP_LBRACKET  &kp JP_RBRACKET  &kp RS(NUMBER_5)  &kp RS(NUMBER_3)  &trans
-&kp JP_CARET      &kp SLASH     &kp NUMBER_4  &kp NUMBER_5  &mt2 LEFT_CONTROL NUMBER_6  &kp JP_ASTERISK  &kp JP_DQUOTE  &kp JP_LPAREN    &kp JP_RPAREN    &kp JP_AMPERSAND  &kp RS(NUMBER_4)  &trans
-&kp RS(NUMBER_1)  &kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3                &kp JP_EQUAL     &kp SEMICOLON  &kp JP_LBRACE    &kp JP_RBRACE    &kp JP_PIPE       &trans            &trans
-&trans            &trans        &trans        &trans        &trans                      &trans           &kp JP_COLON   &trans           &trans           &trans            &trans            @@&trans
+&kp JP_TILDE      &kp MINUS     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9                &kp JP_PLUS      &kp JP_QUOTE   &kp JP_LBRACKET  &kp JP_RBRACKET  &kp JP_YEN        &kp JP_AT  &kp JP_AT
+&kp JP_CARET      &kp SLASH     &kp NUMBER_4  &kp NUMBER_5  &mt2 LEFT_CONTROL NUMBER_6  &kp JP_ASTERISK  &kp JP_DQUOTE  &kp JP_LPAREN    &kp JP_RPAREN    &kp JP_AMPERSAND  &kp RS(5)  &kp RS(Q)
+&kp RS(NUMBER_1)  &kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3                &kp JP_EQUAL     &kp SEMICOLON  &kp JP_LBRACE    &kp JP_RBRACE    &kp JP_PIPE       &kp RS(3)  &kp RS(4)
+&trans            &trans        &trans        &trans        &trans                      &trans           &kp COLON      &trans           &trans           &trans            &trans     &trans
                                 &trans        &trans        &trans                      &trans           &trans         &trans           &trans
             >;
         };
